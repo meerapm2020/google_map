@@ -3,7 +3,7 @@
         android:label="google_map_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBwRYre3Gi2v95JZU6p_nNsdkTVrklUu68" />
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyDBKoauPhd6FPpIA1PllVJtXBKE7ddN3XE" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
